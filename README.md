@@ -1,12 +1,5 @@
-### Olá, eu sou o Marcel Dantas 👋
+## Olá, eu sou o Marcel Dantas 👋
 
-<div>
-💻 Sou apaixonado por tecnologia e códigos; <br> 
-📚 Atualmente faço faculdade e estudo por conta própria;<br> 
-💼 Busco uma oportunidade no mercado de trabalho;<br> 
-</div>
-<br>
-<br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/marceldantas/count.svg" />
