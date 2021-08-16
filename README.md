@@ -1,9 +1,10 @@
 ## Olá, eu sou o Marcel Dantas 👋
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/marceldantas/count.svg" />
 </p>
+-->
 
 <div>
   <a href="https://github.com/marceldantas">
