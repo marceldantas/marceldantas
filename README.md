@@ -1,4 +1,4 @@
-![Header](./marceldantas/your-header-image-name.png)
+![Header](./github-header-image.png)
 
 <!--<p align="center"> 
   Visitors count<br>
