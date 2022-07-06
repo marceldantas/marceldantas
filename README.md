@@ -1,15 +1,14 @@
 ![Header](./github-header-image.png)
 
-28 years old, passionate about coffee and programming
 
 ## 💫 Liitle Bit More About Me
 
-<p>🌱 I'm currently learning PHP</p>
+<p>🌱 I'm currently learning  <b>Context API</b> and <b>React Hooks</b>.</p>
+<p>📫 How to reach me? <b><a href = "mailto: dantasmarcel.dev@gmail.com">dantasmarcel.dev@gmail.com</a></b>
 <!-- <p>🔭 I'm currently working on fdg</p>
 <p>👯 I want to collaborate on ggh</p>
 <p>🙏 I'm looking for help with ht</p> -->
 <!-- <p>💬 Ask me about hd</p>
-<p>📫 How to reach me? dantasmarcel.dev@gmail.com</p>
 <p>I regularly write articles on <a href="fd">gdf</a></p>
 <p>All of my projects are available at <a href="dgbb">bdb</a></p>
 <p>Know about my experiences <a href="dgb">here</a></p>
@@ -43,8 +42,8 @@
 ## 📊 Github Status
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=marceldantas&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceldantas&layout=compact">
+  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=marceldantas&show_icons=true">
+  <img style="width: 44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceldantas&layout=compact">
 </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marceldantas"><p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marceldantas"><p> -->
