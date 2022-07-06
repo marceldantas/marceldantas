@@ -42,8 +42,8 @@
 ## 📊 Github Status
 
 <p>
-  <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=marceldantas&show_icons=true">
-  <img style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceldantas&layout=compact">
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=marceldantas&show_icons=true">
+  <img style="width: 48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceldantas&layout=compact">
 </p>
 
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marceldantas"><p> -->
