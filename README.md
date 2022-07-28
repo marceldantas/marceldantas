@@ -3,7 +3,7 @@
 
 <center><h2> 💫 Little Bit More About Me </center>
 
-<p style= "text-align: center">🌱 I'm currently learning  <b>Context API</b> and <b>React Hooks</b>.</p>
+<p style= "text-align: center">🌱 I'm currently learning  <b>Docker</b>, <b>PHP</b> and <b>Laravel</b>.</p>
 <p style= "text-align: center">📫 How to reach me? <b><a href = "mailto: dantasmarcel.dev@gmail.com">dantasmarcel.dev@gmail.com</a></b>
 <!-- <p>🔭 I'm currently working on fdg</p>
 <p>👯 I want to collaborate on ggh</p>
